@@ -6,7 +6,7 @@
 
 ## **Description**
 
-_Project 4/30_. Great way to refresh on arrays, objects, sort, filter, and map functions. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
+_Project 4/30_. Great way to refresh on variables, methods, and DOM. Fun and easy project learning the basics of vanilla JavaScript, a creative course imparted by [Wes Bos](https://github.com/wesbos).
 
 
 ***
